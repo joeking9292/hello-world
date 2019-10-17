@@ -1,4 +1,4 @@
-# hello-world
+# hello-world (for CS 321)
 just another repository
 
 Hello World!
